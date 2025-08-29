@@ -1,14 +1,27 @@
-# News API  
+# 📰 News API  
 
-This is my first GitHub repository where I’ve created a simple **News API**.  
-It allows you to enter the type of news you’re interested in, and it will return related articles along with links so you can read the full story.  
+This is my first GitHub repository — a simple and lightweight **News API** that delivers articles based on the type of news you want to read. Just enter a keyword or category, and the API will fetch suitable information along with links to full articles for easy access.  
+
+---
+
+## 🚀 Features  
+- Fetch real-time news based on keywords or categories  
+- Provides clean JSON responses  
+- Includes direct links to read full articles  
+- Beginner-friendly and easy to integrate  
 
 ---
 
-## Features  
-- Search for news by topic or category  
-- Get results in a clean JSON format  
-- Direct links to full articles  
-- Beginner-friendly and easy to use  
+## 🛠️ Tech Stack  
+- **Language/Framework**: [Python]  
+- **Data Source**: [https://newsapi.org/]  
 
 ---
+
+## 📌 How It Works  
+1. Input the type of news you want to read (e.g., "technology", "sports", "health").  
+2. The API fetches the latest articles related to your input.  
+3. Click the provided link to access the full news article.  
+
+---
+
